@@ -1,0 +1,1 @@
+# -Prediction-of-Cracks-and-Recognizing-Its-Patterns-
